@@ -11,5 +11,6 @@ Hello, Michael! Welcome to Gradle World!
 
 BUILD SUCCESSFUL in 57s
 1 actionable task: 1 executed
-PS C:\Users\User\IdeaProjects\tugasrumahgradle> 
+PS C:\Users\User\IdeaProjects\tugasrumahgradle> ![greatingtaskmengubahnama](https://github.com/michealalvin/tugasrumahgradle/assets/83525596/e7fe3245-a3b6-41d8-8265-749ca47b416f)
+
 
